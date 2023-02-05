@@ -197,7 +197,7 @@ $nama = $_SESSION['nama'];
 									</div>
 									<div class="user_info ">	
 										<span class="">${d.nama}</span>
-										<p class="">${d.nama} is online</p>
+										<p class="">${d.nama} Terdaftar </p>
 									</div>
 								</div>
 							</li>`;
